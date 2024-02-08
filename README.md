@@ -1,0 +1,1 @@
+# aws-ecs-asg-static-ip-test
